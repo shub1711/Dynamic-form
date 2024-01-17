@@ -1,0 +1,18 @@
+{
+  "steps": [
+    {
+      "label": "Step 1",
+      "fields": [
+        { "id": "firstName", "label": "First Name", "type": "text" },
+        { "id": "lastName", "label": "Last Name", "type": "text" }
+      ]
+    },
+    {
+      "label": "Step 2",
+      "fields": [
+        { "id": "email", "label": "Email", "type": "email" },
+        { "id": "phone", "label": "Phone", "type": "tel" }
+      ]
+    }
+  ]
+}
